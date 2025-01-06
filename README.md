@@ -1,2 +1,2 @@
 # R-Programming
-This repo includes the programming of the basics of R-Programming.
+This contains R Programming codes which i am learning in my Bachelor's level.
